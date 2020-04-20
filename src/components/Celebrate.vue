@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1>Tebrikler Bildiniz</h1>
-    <button @click="newGame">Yeni Oyna</button>
+    <button @click="newGame">Yeni Oyun</button>
   </div>
 </template>
 
